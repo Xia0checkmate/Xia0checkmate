@@ -10,7 +10,7 @@ Founder of **WAFBuster**. I specialize in bypassing modern WAFs and uncovering o
 ---
 
 ### 🚀 Technical Arsenal
-- **Languages:** `HTML , CSS , SQL , PHP , Bash` ( more coming ... )
+- **Languages:** `HTML , CSS , SQL , PHP , Bash` ( more coming ...  )
 - **Specialties:** Web App Security, OSINT, Penetration testing ... )
 - **OS:** `Arch 💙 Linux` (I use Arch btw)
 
