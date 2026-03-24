@@ -22,12 +22,6 @@ Founder of **WAFBuster**. I specialize in bypassing modern WAFs and uncovering o
 </p>
 
 ### 🛠️ Current Project
-██╗    ██╗ █████╗ ███████╗    ██████╗ ██╗   ██╗███████╗████████╗███████╗██████╗
-██║    ██║██╔══██╗██╔════╝    ██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-██║ █╗ ██║███████║█████╗      ██████╔╝██║   ██║███████╗   ██║   █████╗  ██████╔╝
-██║███╗██║██╔══██║██╔══╝      ██╔══██╗██║   ██║╚════██║   ██║   ██╔══╝  ██╔══██╗
-╚███╔███╔╝██║  ██║██║         ██████╔╝╚██████╔╝███████║   ██║   ███████╗██║  ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝         ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 - **[WAFBuster](https://xia0checkmate.github.io/wafbuster-official/)**: An aggressive tool designed to hunt down Origin IPs and shred WAF layers.
 
 ---
