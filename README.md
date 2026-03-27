@@ -11,12 +11,6 @@
 - **Specialties:** Web App Security, OSINT, Penetration testing ... )
 - **OS:** `Arch 💙 Linux` (I use Arch btw)
 
----
-
-### 📊 Vital Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xia0checkmate&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-</p>
 
 ### 🛠️ Current Project
 - **[WAFBuster](https://xia0checkmate.github.io/wafbuster-official/)**: An aggressive tool designed to hunt down Origin IPs and shred WAF layers.
