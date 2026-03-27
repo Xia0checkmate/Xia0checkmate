@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Architecting+WAFBuster;Decoding+the+Invisible;Red+Teaming+%26+AppSec;Arch+Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🛡️ The Mission
-Founder of **WAFBuster**. I specialize in bypassing modern WAFs and uncovering origin IPs. I don't just find vulnerabilities; I build the tools that reveal them.
-
 ---
 
 ### 🚀 Technical Arsenal
