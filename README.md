@@ -1,26 +1,48 @@
-# ♟️ Xia0checkmate | Security Architect
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Architecting+WAFBuster;Decoding+the+Invisible;Red+Teaming+%26+AppSec;Arch+Linux+Enthusiast" alt="Typing SVG" />
-</p>
+# 🛡️ Xia0checkmate | Architectural Logic Decoder
+> **Application Security Researcher | Security Philosopher | Author & R&D Specialist**
 
 ---
 
-### 🚀 Technical Arsenal
-- **Languages:** `HTML , CSS , SQL , PHP , Bash` ( more coming ...  )
-- **Specialties:** Web App Security, OSINT, Penetration testing ... )
-- **OS:** `Arch 💙 Linux` (I use Arch btw)
+### 👤 Intel: The Logic Decoder
+A high-precision security researcher driven by the belief that automation inherently misses the nuance of architecture. My methodology prioritizes **Manual Precision** over automated noise, identifying deep-seated logic flaws that standard scanners overlook.
 
-
-### 🛠️ Current Project
-- **[WAFBuster](https://xia0checkmate.github.io/wafbuster-official/)**: An aggressive tool designed to hunt down Origin IPs and shred WAF layers.
+*   **🏆 Global Ranking:** Ranked **#2** in Jordan (VDP 2026) on the **HackerOne** platform.
+*   **🏅 Hall of Fame:** Ranked **#57** in the official **Vodafone** Hall of Fame.
+*   **🧪 R&D:** Creator of **AlgOrigin**, a high-performance Go-based engine designed for infrastructure subversion and WAF bypassing.
 
 ---
 
-### 📨 Secure Line
-- **Proton:** `ops.wafbuster@proton.me`
-- **Status:** *Currently hunting...*
+### 📊 Vital Statistics
+| Achievement | Status |
+| :--- | :--- |
+| **HackerOne Rank (Jordan)** | `#2` (VDP 2026) |
+| **Private Invitations** | `40+` (Acquired within month one) |
+| **TryHackMe Global Rank** | `Top 6%` |
+| **Methodology** | `Manual Precision Research` |
 
-<p align="right">
-  "In the game of security, checkmate is only the beginning." ♟️
-</p>
+---
+
+### 🎯 Primary Research Domains
+Focused on identifying structural and behavioral discrepancies within high-scale production environments:
+
+- [x] **Business Logic Abuse:** Exploiting architectural flaws in application workflows.
+- [x] **Auth Subversion:** Manual exploitation of IDORs, session hijacking, and Auth bypasses.
+- [x] **Infrastructure Hacking:** Origin IP discovery and WAF subversion.
+- [x] **Race Conditions:** Exploiting temporal discrepancies in data processing.
+
+---
+
+### 🛠️ Featured Lab Project: `AlgOrigin.go`
+An advanced reconnaissance engine written in **Go**, engineered to subvert modern WAF protections (Cloudflare, Akamai) through architectural analysis:
+
+*   **DNS History Analysis:** Reconstructing historical A-records to identify origin leakage.
+*   **IP Collection & Scrubbing:** Massive-scale IP vector collection and infrastructure mapping.
+*   **ASN + IP Prefix Filtering:** Analyzing routing paths to uncover unprotected entry points.
+
+```go
+// core/logic: Searching for leaked origin IP
+func TriggerBypass(target string) {
+    AnalyzeHistoricalDNS(target)
+    CollectInfrastructureAssets(target)
+    ExecuteSubversionStrategy()
+}
