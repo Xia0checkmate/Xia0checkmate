@@ -16,7 +16,7 @@ A high-precision security researcher driven by the belief that automation inhere
 | Achievement | Status |
 | :--- | :--- |
 | **HackerOne Rank (Jordan)** | `#2` (VDP 2026) |
-| **Private Invitations** | `50+` (Acquired within month one) |
+| **Private Invitations** | `70+` (Acquired within month one) |
 | **TryHackMe Global Rank** | `Top 6%` |
 | **Methodology** | `Manual Precision Research` |
 
